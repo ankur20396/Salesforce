@@ -1,0 +1,8 @@
+.forceignore
+force-app
+config/
+.sfdx
+.vscode
+build.properties
+build.xml
+libs/
